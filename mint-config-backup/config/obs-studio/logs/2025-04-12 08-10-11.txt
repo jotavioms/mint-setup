@@ -1,0 +1,98 @@
+08:10:11.990: Using EGL/X11
+08:10:11.990: CPU Name: 12th Gen Intel(R) Core(TM) i7-12700K
+08:10:11.990: CPU Speed: 4700.000MHz
+08:10:11.990: Physical Cores: 12, Logical Cores: 20
+08:10:11.990: Physical Memory: 15746MB Total, 1410MB Free
+08:10:11.990: Kernel Version: Linux 6.8.0-57-generic
+08:10:11.990: Distribution: "Linux Mint" "22.1"
+08:10:11.990: Desktop Environment: X-Cinnamon (cinnamon)
+08:10:11.990: Session Type: x11
+08:10:11.990: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+08:10:11.991: Qt Version: 6.4.2 (runtime), 6.4.2 (compiled)
+08:10:11.991: Portable mode: false
+08:10:12.013: OBS 30.0.2.1-3build1 (linux)
+08:10:12.013: ---------------------------------
+08:10:12.013: ---------------------------------
+08:10:12.013: audio settings reset:
+08:10:12.013: 	samples per sec: 48000
+08:10:12.013: 	speakers:        2
+08:10:12.013: 	max buffering:   960 milliseconds
+08:10:12.013: 	buffering type:  dynamically increasing
+08:10:12.014: ---------------------------------
+08:10:12.014: Initializing OpenGL...
+08:10:12.070: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 2060/PCIe/SSE2
+08:10:12.070: OpenGL loaded successfully, version 3.3.0 NVIDIA 550.120, shading language 3.30 NVIDIA via Cg compiler
+08:10:12.086: ---------------------------------
+08:10:12.086: video settings reset:
+08:10:12.086: 	base resolution:   1920x1080
+08:10:12.086: 	output resolution: 1920x1080
+08:10:12.086: 	downscale filter:  Bicubic
+08:10:12.086: 	fps:               60/1
+08:10:12.086: 	format:            NV12
+08:10:12.086: 	YUV mode:          Rec. 709/Partial
+08:10:12.086: NV12 texture support not available
+08:10:12.086: P010 texture support not available
+08:10:12.086: Audio monitoring device:
+08:10:12.086: 	name: Padrão
+08:10:12.086: 	id: default
+08:10:12.086: ---------------------------------
+08:10:12.092: Failed to load 'en-US' text for module: 'decklink-captions.so'
+08:10:12.098: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+08:10:12.103: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+08:10:12.103: Failed to initialize module 'decklink.so'
+08:10:12.174: [pipewire] No captures available
+08:10:12.239: NVENC supported
+08:10:12.242: VAAPI: API version 1.20
+08:10:12.243: FFmpeg VAAPI H264 encoding supported
+08:10:12.244: FFmpeg VAAPI HEVC encoding supported
+08:10:12.269: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.3.4 | RPC Version: 1)
+08:10:12.269: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.4.2 | Qt version (run-time): 6.4.2
+08:10:12.269: [obs-websocket] [obs_module_load] Linked ASIO Version: 102801
+08:10:12.273: [obs-websocket] [obs_module_load] Module loaded.
+08:10:12.301: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+08:10:12.301: ---------------------------------
+08:10:12.301:   Loaded Modules:
+08:10:12.301:     vlc-video.so
+08:10:12.301:     text-freetype2.so
+08:10:12.301:     rtmp-services.so
+08:10:12.301:     obs-x264.so
+08:10:12.301:     obs-websocket.so
+08:10:12.301:     obs-transitions.so
+08:10:12.301:     obs-outputs.so
+08:10:12.301:     obs-filters.so
+08:10:12.301:     obs-ffmpeg.so
+08:10:12.301:     linux-v4l2.so
+08:10:12.301:     linux-pulseaudio.so
+08:10:12.301:     linux-pipewire.so
+08:10:12.301:     linux-jack.so
+08:10:12.301:     linux-capture.so
+08:10:12.301:     linux-alsa.so
+08:10:12.302:     image-source.so
+08:10:12.302:     frontend-tools.so
+08:10:12.302:     decklink-output-ui.so
+08:10:12.302:     decklink-captions.so
+08:10:12.302: ---------------------------------
+08:10:12.302: QWidget::setTabOrder: 'first' and 'second' must be in the same window
+08:10:12.302: ==== Startup complete ===============================================
+08:10:12.333: All scene data cleared
+08:10:12.333: ------------------------------------------------
+08:10:12.349: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.5) 15.0.0'
+08:10:12.350: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+08:10:12.350: pulse-input: Started recording from 'alsa_output.usb-Focusrite_Scarlett_Solo_USB_Y7DD1MX0645B46-00.analog-stereo.monitor' (default)
+08:10:12.350: [Loaded global audio device]: 'Áudio do desktop'
+08:10:12.352: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.5) 15.0.0'
+08:10:12.352: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+08:10:12.352: pulse-input: Started recording from 'alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y7DD1MX0645B46-00.analog-stereo' (default)
+08:10:12.353: [Loaded global audio device]: 'Mic/Aux'
+08:10:12.355: [window-capture: 'Captura de janela (Xcomposite)'] update settings:
+08:10:12.355: 	title: Recomendações de Distro Linux — Mozilla Firefox
+08:10:12.355: 	class: Navigator
+08:10:12.355: 
+08:10:12.382: Switched to scene 'Cena'
+08:10:12.382: ------------------------------------------------
+08:10:12.382: Loaded scenes:
+08:10:12.382: - scene 'Cena':
+08:10:12.382:     - source: 'Captura de janela (Xcomposite)' (xcomposite_input)
+08:10:12.382: ------------------------------------------------
+08:10:12.909: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Mic/Aux)
+08:10:12.909: 

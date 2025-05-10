@@ -1,0 +1,24 @@
+# Ignorar arquivos temporários e ocultos
+*.swp
+*.bak
+*.tmp
+
+# Ignorar cache e logs
+.cache/
+*.log
+
+# Ignorar configs sensíveis
+*.env
+*.key
+*.pem
+
+# Ignorar dados pessoais
+.REAPER.ini
+REAPER/reaper-license.rk
+
+# Evitar arquivos grandes desnecessários
+*.mp4
+*.iso
+
+mint-config-backup/config/guitarix/banks/StrixGuitarPack.sf2
+mint-config-backup/fonts/Meslo.zip

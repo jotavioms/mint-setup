@@ -1,0 +1,132 @@
+08:13:03.043: Using EGL/X11
+08:13:03.043: CPU Name: 12th Gen Intel(R) Core(TM) i7-12700K
+08:13:03.043: CPU Speed: 4700.000MHz
+08:13:03.043: Physical Cores: 12, Logical Cores: 20
+08:13:03.043: Physical Memory: 15746MB Total, 1297MB Free
+08:13:03.043: Kernel Version: Linux 6.8.0-57-generic
+08:13:03.043: Distribution: "Linux Mint" "22.1"
+08:13:03.043: Desktop Environment: X-Cinnamon (cinnamon)
+08:13:03.043: Session Type: x11
+08:13:03.043: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+08:13:03.044: Qt Version: 6.4.2 (runtime), 6.4.2 (compiled)
+08:13:03.044: Portable mode: false
+08:13:03.067: OBS 30.0.2.1-3build1 (linux)
+08:13:03.067: ---------------------------------
+08:13:03.067: ---------------------------------
+08:13:03.067: audio settings reset:
+08:13:03.067: 	samples per sec: 48000
+08:13:03.067: 	speakers:        2
+08:13:03.067: 	max buffering:   960 milliseconds
+08:13:03.067: 	buffering type:  dynamically increasing
+08:13:03.069: ---------------------------------
+08:13:03.069: Initializing OpenGL...
+08:13:03.184: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 2060/PCIe/SSE2
+08:13:03.184: OpenGL loaded successfully, version 3.3.0 NVIDIA 550.120, shading language 3.30 NVIDIA via Cg compiler
+08:13:03.202: ---------------------------------
+08:13:03.202: video settings reset:
+08:13:03.202: 	base resolution:   1920x1080
+08:13:03.202: 	output resolution: 1920x1080
+08:13:03.202: 	downscale filter:  Bicubic
+08:13:03.202: 	fps:               60/1
+08:13:03.202: 	format:            NV12
+08:13:03.202: 	YUV mode:          Rec. 709/Partial
+08:13:03.202: NV12 texture support not available
+08:13:03.202: P010 texture support not available
+08:13:03.202: Audio monitoring device:
+08:13:03.202: 	name: Padrão
+08:13:03.202: 	id: default
+08:13:03.202: ---------------------------------
+08:13:03.210: Failed to load 'en-US' text for module: 'decklink-captions.so'
+08:13:03.219: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+08:13:03.225: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+08:13:03.225: Failed to initialize module 'decklink.so'
+08:13:03.275: [pipewire] No captures available
+08:13:03.325: NVENC supported
+08:13:03.328: VAAPI: API version 1.20
+08:13:03.329: FFmpeg VAAPI H264 encoding supported
+08:13:03.330: FFmpeg VAAPI HEVC encoding supported
+08:13:03.354: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.3.4 | RPC Version: 1)
+08:13:03.354: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.4.2 | Qt version (run-time): 6.4.2
+08:13:03.354: [obs-websocket] [obs_module_load] Linked ASIO Version: 102801
+08:13:03.357: [obs-websocket] [obs_module_load] Module loaded.
+08:13:03.382: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+08:13:03.382: ---------------------------------
+08:13:03.382:   Loaded Modules:
+08:13:03.382:     vlc-video.so
+08:13:03.382:     text-freetype2.so
+08:13:03.382:     rtmp-services.so
+08:13:03.382:     obs-x264.so
+08:13:03.382:     obs-websocket.so
+08:13:03.382:     obs-transitions.so
+08:13:03.382:     obs-outputs.so
+08:13:03.382:     obs-filters.so
+08:13:03.382:     obs-ffmpeg.so
+08:13:03.382:     linux-v4l2.so
+08:13:03.382:     linux-pulseaudio.so
+08:13:03.382:     linux-pipewire.so
+08:13:03.382:     linux-jack.so
+08:13:03.382:     linux-capture.so
+08:13:03.382:     linux-alsa.so
+08:13:03.382:     image-source.so
+08:13:03.382:     frontend-tools.so
+08:13:03.382:     decklink-output-ui.so
+08:13:03.382:     decklink-captions.so
+08:13:03.382: ---------------------------------
+08:13:03.382: QWidget::setTabOrder: 'first' and 'second' must be in the same window
+08:13:03.382: ==== Startup complete ===============================================
+08:13:03.409: All scene data cleared
+08:13:03.409: ------------------------------------------------
+08:13:03.423: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.5) 15.0.0'
+08:13:03.423: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+08:13:03.424: pulse-input: Started recording from 'alsa_output.usb-Focusrite_Scarlett_Solo_USB_Y7DD1MX0645B46-00.analog-stereo.monitor' (default)
+08:13:03.424: [Loaded global audio device]: 'Áudio do desktop'
+08:13:03.424: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.5) 15.0.0'
+08:13:03.425: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+08:13:03.425: pulse-input: Started recording from 'alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y7DD1MX0645B46-00.analog-stereo' (default)
+08:13:03.425: [Loaded global audio device]: 'Mic/Aux'
+08:13:03.427: [window-capture: 'Captura de janela (Xcomposite)'] update settings:
+08:13:03.427: 	title: Recomendações de Distro Linux — Mozilla Firefox
+08:13:03.427: 	class: Navigator
+08:13:03.427: 
+08:13:03.432: xshm-input: Geometry 1920x1080 @ 0,0
+08:13:03.434: Switched to scene 'Cena'
+08:13:03.434: ------------------------------------------------
+08:13:03.434: Loaded scenes:
+08:13:03.434: - scene 'Cena':
+08:13:03.434:     - source: 'Captura de janela (Xcomposite)' (xcomposite_input)
+08:13:03.434:     - source: 'Captura de Tela (XSHM)' (xshm_input)
+08:13:03.434: ------------------------------------------------
+08:13:03.985: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Áudio do desktop)
+08:13:03.985: 
+08:14:19.525: ---------------------------------
+08:14:19.525: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+08:14:19.525: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+08:14:19.525: 	rate_control: CQP
+08:14:19.525: 	bitrate:      0
+08:14:19.525: 	cqp:          23
+08:14:19.525: 	keyint:       -1
+08:14:19.525: 	preset:       p5
+08:14:19.525: 	tuning:       hq
+08:14:19.525: 	multipass:    qres
+08:14:19.525: 	profile:      high
+08:14:19.525: 	width:        1920
+08:14:19.525: 	height:       1080
+08:14:19.525: 	b-frames:     2
+08:14:19.525: 	psycho-aq:    1
+08:14:19.525: 	GPU:          0
+08:14:19.525: 
+08:14:19.671: ---------------------------------
+08:14:19.672: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo
+08:14:19.672: 
+08:14:19.676: ==== Recording Start ===============================================
+08:14:19.676: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/john/2025-04-12_08-14-19.mkv'...
+08:52:44.017: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+08:52:44.017: 
+10:30:02.316: output simple_file_output paused
+10:40:18.740: output simple_file_output unpaused
+12:41:25.198: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/john/2025-04-12_08-14-19.mkv' stopped
+12:41:25.198: Output 'simple_file_output': stopping
+12:41:25.198: Output 'simple_file_output': Total frames output: 924529
+12:41:25.198: Output 'simple_file_output': Total drawn frames: 961283 (961531 attempted)
+12:41:25.198: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 248 (0.0%)
+12:41:25.199: ==== Recording Stop ================================================
