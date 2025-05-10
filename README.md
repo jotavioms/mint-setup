@@ -1,4 +1,6 @@
 ```
+sudo apt install git
+cd ~
 git clone https://github.com/jotavioms/mint-setup.git
 cd mint-setup
 chmod +x install_packages.sh
